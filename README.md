@@ -1,6 +1,5 @@
 # IntroToGitHub
 
-
 GitHub  is  one  of  the  world's  best  platform  to share  your  coding  skills.    
 It is a website where millions of developers gather every day to collaborate on open source software. 
 It's also the place that hosts billions of lines of code, and also a place where users of software go to report issues they might have. 
@@ -8,16 +7,16 @@ Learn all the most important pieces of GitHub that you should know as a develope
 
 
 
-As  a  Developer:-
 
+*As  a  Developer*:-
 
 As a developer you can’t avoid using GitHub daily, either to host your code or to make use of other people’s code. 
 Through my repository i will try to explains you some key concepts of GitHub, and how to use some of its features that improve your workflow, and how to integrate other applications into your process.
 
 
 
-Why GitHub?
 
+*Why GitHub?    _OR_    Advantages  of  GitHub*:-
 
 Now that you know what GitHub is, you might ask why you should use it.
 
@@ -33,11 +32,10 @@ Apart from Open Source code, many developers also host private repositories on G
 
 
 
-GitHub issues:-
-It provides the owners of a repository the ability to organize, tag and assign to milestones issues.
+*Disadvantages of GitHub*:-
 
-If you open an issue on a project managed by someone else, it will stay open until either you close it (for example if you figure out the problem you had) or if the repo owner closes it.
+The main disadvantage with both Git and GitHub is that they both have a fairly steep learning curve.
 
-Sometimes you’ll get a definitive answer, other times the issue will be left open and tagged with some information that categorizes it, and the developer could get back to it to fix a problem or improve the codebase with your feedback.
+GitHub  is not  100%  free!!
 
-Most developers are not paid to support their code released on GitHub, so you can’t expect prompt replies, but other times Open Source repositories are published by companies that either provide services around that code, or have commercial offerings for versions with more features, or a plugin-based architecture, in which case they might be working on the open source software as paid developers.
+Being  a  version  control  Github  the  user have to always save the progress made. 
