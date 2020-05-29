@@ -1,4 +1,6 @@
 # IntroToGitHub
+
+
 GitHub  is  one  of  the  world's  best  platform  to share  your  coding  skills.    
 It is a website where millions of developers gather every day to collaborate on open source software. 
 It's also the place that hosts billions of lines of code, and also a place where users of software go to report issues they might have. 
@@ -7,12 +9,16 @@ Learn all the most important pieces of GitHub that you should know as a develope
 
 
 As  a  Developer:-
+
+
 As a developer you can’t avoid using GitHub daily, either to host your code or to make use of other people’s code. 
 Through my repository i will try to explains you some key concepts of GitHub, and how to use some of its features that improve your workflow, and how to integrate other applications into your process.
 
 
 
 Why GitHub?
+
+
 Now that you know what GitHub is, you might ask why you should use it.
 
 GitHub after all is managed by a private company, which profits from hosting people’s code. So why should you use that instead of similar platforms such as BitBucket or GitLab, which are very similar?
