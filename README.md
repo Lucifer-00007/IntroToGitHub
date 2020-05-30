@@ -3,7 +3,7 @@
 ## *GitHub  is  one  of  the  world's  best  platform  to share  your  coding  skills*.  
 
 - It is a website where millions of developers gather every day to collaborate on open source software. 
-- It's also the place that hosts billions of lines of code, and also a place where users of software go to report issues they might have. 
+- It's also the place that hosts billions of lines of code, and also where users can "report issues" that they might have related to a software that's shared by a developer. 
 - Learn all the most important pieces of GitHub that you should know as a developer.
 
 
