@@ -117,6 +117,8 @@ Every comment field on GitHub contains a text formatting toolbar, allowing you t
 - Markdown formatting like-- "`bold`" and "`italic styles`" and 
 - Also creating-- "`headers`", "`links`", and "`lists`". 
 - GitHub-specific features such as-- "`@mentions`", "`task lists`" and "`links to issues and pull requests`".
+- 
+![](Images/Comment%20toolbar.gif)
          
   
   
