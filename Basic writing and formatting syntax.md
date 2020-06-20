@@ -5,10 +5,10 @@
 
 
 ## \__STYLE\__                   \__EXAMPLE WITH SYNTAX\__
-- BOLD-                    \**This is bold text**
+- BOLD-                    \*\*This is bold text**
 - ITALIC-                   \*This text is italicized*
 - STRICKTHROUGH-            \~~This was mistaken text~~
-- BOLD & NEST ITALIC-       \*\*This part of  text is in _italic_ & rest is bold**
+- BOLD & NEST ITALIC-       \*\*This part of  text is in \_italic\_ & rest is bold**
 - ALL BOLD AND ITALIC-      \*\*\*All this text is bold and italic***
 - To HIGHLIGHT TEXT\CODE-   \`This is the highlighted text`.
 
