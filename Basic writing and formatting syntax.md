@@ -12,7 +12,7 @@
 - ALL BOLD AND ITALIC-      \*\*\*All this text is bold and italic***
 - To HIGHLIGHT TEXT\CODE-   \`This is the highlighted text`.
 
-Output:-
+###### Output:-
 - **This is bold text**
 - *This text is italicized*
 - ~~This was mistaken text~~
@@ -59,7 +59,7 @@ You can create an inline link by wrapping link text in brackets [ ], and then wr
       1. First list item
           - First nested list item
              - Second nested list item
-Output:->       
+###### Output:->       
 1. First list item
   - First nested list item
     - Second nested list item
@@ -73,7 +73,7 @@ Output:->
                      - [ ] Push my commits to GitHub
                      - [ ] Or Open a pull request
                      
- Output:->     
+ ###### Output:->     
  - [x] Finish my changes
  - [ ] Push my commits to GitHub
  - [ ] Or Open a pull request                     
@@ -94,7 +94,7 @@ Output:->
 
            Ex:-  @octocat :+1: This PR looks great - it's ready to merge! :shipit:
            
- Output:-  @octocat :+1: This PR looks great - it's ready to merge! :shipit:
+ ###### Output:-  @octocat :+1: This PR looks great - it's ready to merge! :shipit:
 
 
 ## _Giving_Comments_
@@ -103,7 +103,7 @@ We can give a comment on GitHub by using "\\" in the text or code.
        
       Ex:- Let's rename \*our-new-project*.
       
-Output:- Let's rename \*our-new-project*
+###### Output:- Let's rename \*our-new-project*
    
 
 
@@ -113,7 +113,7 @@ Output:- Let's rename \*our-new-project*
 	
 Every comment field on GitHub contains a text formatting toolbar, allowing you to format your text without learning Markdown syntax. 
       
-It's features  are:-     
+###### It's features  are:-     
 - Markdown formatting like-- "bold" and "italic styles" and 
 - Also creating-- "headers", "links", and lists, 
 - GitHub-specific features such as-- "@mentions", "task lists" and "links to issues and pull requests".
