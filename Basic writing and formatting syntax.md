@@ -99,7 +99,7 @@ You can create an inline link by wrapping link text in brackets `[ ]`, and then 
 
 ## _Giving_Comments_
          
-We can give a comment on GitHub by using "`\\`" in the text or code.
+We can give a comment on GitHub by using "`\`" in the text or code.
        
       Ex:- Let's rename \*our-new-project*.
       
