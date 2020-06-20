@@ -30,7 +30,7 @@
 
 
 ## _Links_
-You can create an inline link by wrapping link text in brackets [ ], and then wrapping the URL in parentheses ( ). 
+You can create an inline link by wrapping link text in brackets `[ ]`, and then wrapping the URL in parentheses `( )`. 
 
    ###### TO ADD A WEBITE LINK TO A WORD->    
     This site was built using [DESIRED WORD](https://desiredWebSite.com/).
@@ -40,7 +40,7 @@ You can create an inline link by wrapping link text in brackets [ ], and then wr
 
 
 ## _ADD-Bullets_
- You can make an unordered list by preceding one or more lines of text with " - " or " * ".
+ You can make an unordered list by preceding one or more lines of text with " `-` " or " `*` ".
 
  ###### Example:->        
      - George Washington
@@ -82,15 +82,15 @@ You can create an inline link by wrapping link text in brackets [ ], and then wr
 
 ## _To Mentioning people and teams__or__Referencing issues and pull requests:->
       
- - To Mentioning people and teams use:->         " @ " and add there name or team name.
- - To Referencing issues and pull requests:->    " # " and the issue or pull reequest.
+ - To Mentioning people and teams use:->         " `@` " and add there name or team name.
+ - To Referencing issues and pull requests:->    " `#` " and the issue or pull reequest.
 
 
 
 ## _USING_EMOJI_
 
-- Typing " : " will bring up a list of suggested emoji. 
-- The list will filter as you type, so once you find the emoji you're looking for, press "Tab" or "Enter" to complete the highlighted result.
+- Typing " `:` " will bring up a list of suggested emoji. 
+- The list will filter as you type, so once you find the emoji you're looking for, press "`Tab`" or "`Enter`" to complete the highlighted result.
 
            Ex:-  @octocat :+1: This PR looks great - it's ready to merge! :shipit:
            
@@ -99,7 +99,7 @@ You can create an inline link by wrapping link text in brackets [ ], and then wr
 
 ## _Giving_Comments_
          
-We can give a comment on GitHub by using "\\" in the text or code.
+We can give a comment on GitHub by using "`\\`" in the text or code.
        
       Ex:- Let's rename \*our-new-project*.
       
@@ -114,11 +114,13 @@ We can give a comment on GitHub by using "\\" in the text or code.
 Every comment field on GitHub contains a text formatting toolbar, allowing you to format your text without learning Markdown syntax. 
       
 ###### It's features  are:-     
-- Markdown formatting like-- "bold" and "italic styles" and 
-- Also creating-- "headers", "links", and lists, 
-- GitHub-specific features such as-- "@mentions", "task lists" and "links to issues and pull requests".
+- Markdown formatting like-- "`bold`" and "`italic styles`" and 
+- Also creating-- "`headers`", "`links`", and "`lists`". 
+- GitHub-specific features such as-- "`@mentions`", "`task lists`" and "`links to issues and pull requests`".
          
-         
+  
+  
+**Thank You**  
         
          
          
