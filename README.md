@@ -40,3 +40,36 @@ Now that you know what GitHub is, you might ask why you should use it.
 - Being  a  version  control  the  users have to always save the progress made in Github.
 
 - GitHub after all is managed by a private company, which profits from hosting people’s code.Thus you Cann't 100% trust it. So the users should try similar platforms such as BitBucket or GitLab, which are very similar to it. 
+
+
+
+
+## *Syllabus  of  IntroToGitHub*
+
+- [All About README.md file.md](https://github.com/Lucifer-00007/IntroToGitHub/blob/master/All%20About%20%20README.md%20%20file.md)
+- [Basic writing and formatting syntax](https://github.com/Lucifer-00007/IntroToGitHub/blob/master/Basic%20writing%20and%20formatting%20syntax.md)	
+- [List Of Elements In GitHub](https://github.com/Lucifer-00007/IntroToGitHub/blob/master/List%20Of%20Elements%20In%20GitHub)
+-
+-
+-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
