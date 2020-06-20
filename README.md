@@ -2,9 +2,10 @@
 
 ## *GitHub  is  one  of  the  world's  best  platform  to share  your  coding  skills*.  
 
-- It is a website where millions of developers gather every day to collaborate on open source software. 
-- It's also the place that hosts billions of lines of code, and also where users can "report issues" that they might have related to a software that's shared by a developer. 
-- Learn all the important pieces of GitHub that you should know as a developer.
+- It is a website where millions of developers gather every day to collaborate on open source software.
+- Github  user  actually  create  "repositories"  (Which  is  nothing  but  just  like  a  folder  in  your  PC  or  Mobile)  containing  {a  "Readme.md",  Folder1(contails  codes  of  software/project),  Folder2(contails  codes  of  software/project),  Etc.}[these are all optional].  
+- Therefore  in  Github  you  can  hosts  billions  of  lines  of  code,  and  also  where  other  users  can  "report issues"  that  they  might  have  related  to  a  software/project  that's  shared  by  a  developer/creator. 
+- Learn  all  the  important  pieces  of  GitHub  that  you  should  know  as  a  developer.
 
 
 
@@ -36,6 +37,6 @@ Now that you know what GitHub is, you might ask why you should use it.
 
 - GitHub  is not  100%  free!!
 
-- Being  a  version  control  Github  the  user have to always save the progress made.
+- Being  a  version  control  the  users have to always save the progress made in Github.
 
-- GitHub after all is managed by a private company, which profits from hosting people’s code.So the users should try similar platforms such as BitBucket or GitLab, which are very similar to it.
+- GitHub after all is managed by a private company, which profits from hosting people’s code.Thus you Cann't 100% trust it. So the users should try similar platforms such as BitBucket or GitLab, which are very similar to it. 
