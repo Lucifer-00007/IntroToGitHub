@@ -20,7 +20,7 @@
 - **FORK**
 
 
-## CODE
+## CODE:-
 - This is a particular section of Github repository where we find all the internal content of the project/software. 
 - Only the master of this project/software can add or remove any items from the code section.
 - We are free to write code in any desired language here. For eg:- Python, Java, C++, HTML, Perl, C#, PHP, SQL, Swift, Go etc.
