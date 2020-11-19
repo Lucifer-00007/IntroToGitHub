@@ -48,7 +48,7 @@ Now that you know what GitHub is, you might ask why you should use it.
 
 - [All About README.md file](https://github.com/Lucifer-00007/IntroToGitHub/blob/master/All%20About%20%20README.md%20%20file.md)
 - [Basic writing and formatting syntax](https://github.com/Lucifer-00007/IntroToGitHub/blob/master/Basic%20writing%20and%20formatting%20syntax.md)	
-- [List Of Elements In GitHub](https://github.com/Lucifer-00007/IntroToGitHub/blob/master/List%20Of%20Elements%20In%20GitHub)
+- [List Of Elements In GitHub](https://github.com/Lucifer-00007/IntroToGitHub/blob/master/List%20Of%20Elements%20In%20GitHub.md#list--of--all--basic--elements--of--github--are--as--follows-)
 -
 -
 -
