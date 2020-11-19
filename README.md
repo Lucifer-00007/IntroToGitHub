@@ -3,7 +3,7 @@
 ## *GitHub  is  one  of  the  world's  best  platform  to share  your  coding  skills*.  
 
 - It is a website where millions of developers gather every day to collaborate on open source software.
-- Github  users  actually  create  "repositories"  (Which  is  nothing  but  just  like  a  folder  in  your  PC  or  Mobile)  containing  {a  "Readme.md",  Folder1(contails  codes  of  software/project),  Folder2(contails  codes  of  software/project),  Etc.}[these are all optional].  
+- Github  users  actually  create  "repositories"  (Which  is  nothing  but  just  like  a  folder  in  your  PC  or  Mobile)  containing  {a  "Readme.md",  Folder1(contains  codes  of  software/project),  Folder2(contains  codes  of  software/project),  Etc.}[these are all optional].  
 - Therefore  in  Github  you  can  hosts  billions  of  lines  of  code,  and  also  where  other  users  can  "report issues"  that  they  might  have  related  to  a  software/project  that's  shared  by  a  developer/creator. 
 - Learn  all  the  important  pieces  of  GitHub  that  you  should  know  as  a  developer.
 
@@ -39,7 +39,7 @@ Now that you know what GitHub is, you might ask why you should use it.
 
 - Being  a  version  control  the  users have to always save the progress made in Github.
 
-- GitHub after all is managed by a private company, which profits from hosting people’s code.Thus you Cann't 100% trust it. So the users should try similar platforms such as BitBucket or GitLab, which are very similar to it. 
+- GitHub after all is managed by a private company, which profits from hosting people’s code. Thus you Can't 100% trust it. So the users should try similar platforms such as BitBucket or GitLab, which are very similar to it. 
 
 
 
@@ -49,10 +49,16 @@ Now that you know what GitHub is, you might ask why you should use it.
 - [All About README.md file](https://github.com/Lucifer-00007/IntroToGitHub/blob/master/All%20About%20%20README.md%20%20file.md)
 - [Basic writing and formatting syntax](https://github.com/Lucifer-00007/IntroToGitHub/blob/master/Basic%20writing%20and%20formatting%20syntax.md)	
 - [List Of Elements In GitHub](https://github.com/Lucifer-00007/IntroToGitHub/blob/master/List%20Of%20Elements%20In%20GitHub.md#list--of--all--basic--elements--of--github--are--as--follows-)
--
--
--
-
+- Creating, Cloning, And Archiving Repositories
+- Using Git
+- Committing Changes To Your Project
+- Managing Your work On GitHub
+- Searching For Information on GitHub
+- Importing Your Projects To GitHub
+- Managing Files In A Repository and Managing Large Files
+- Customizing Your GitHub Workflow
+- Working With GitHub Pages
+- Understanding How GitHub Uses And Protects Your Data
 
 
 
