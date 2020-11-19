@@ -3,8 +3,11 @@
 ## *GitHub  is  one  of  the  world's  best  platform  to share  your  coding  skills*.  
 
 - It is a website where millions of developers gather every day to collaborate on open source software.
+
 - Github  users  actually  create  "repositories"  (Which  is  nothing  but  just  like  a  folder  in  your  PC  or  Mobile)  containing  {a  "Readme.md",  Folder1(contains  codes  of  software/project),  Folder2(contains  codes  of  software/project),  Etc.}[these are all optional].  
+
 - Therefore  in  Github  you  can  hosts  billions  of  lines  of  code,  and  also  where  other  users  can  "report issues"  that  they  might  have  related  to  a  software/project  that's  shared  by  a  developer/creator. 
+
 - Learn  all  the  important  pieces  of  GitHub  that  you  should  know  as  a  developer.
 
 
@@ -13,6 +16,7 @@
 ## *As  a  Developer*:-
 
 - As a developer you can’t avoid using GitHub daily, either to host your code or to make use of other people’s code. 
+
 - Through my repository i will try to explains you some key concepts of GitHub, and how to use some of its features that improve your workflow, and how to integrate other applications into your process.
 
 
