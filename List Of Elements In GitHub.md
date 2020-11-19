@@ -1,8 +1,8 @@
 # List  of  all  basic  elements  of  GitHub  are  as  follows:-
 ![](Images/Screenshot%20(91).png)
-- [**CODE**](https://github.com/Lucifer-00007/IntroToGitHub/blob/master/List%20Of%20Elements%20In%20GitHub.md)
+- [**CODE**](https://github.com/Lucifer-00007/IntroToGitHub/blob/master/List%20Of%20Elements%20In%20GitHub.md#code-)
 - [**ISSUES**](https://github.com/Lucifer-00007/IntroToGitHub/blob/master/List%20Of%20Elements%20In%20GitHub.md#issues-)
-- [**PULL REQUESTS**]()
+- [**PULL REQUESTS**](https://github.com/Lucifer-00007/IntroToGitHub/blob/master/List%20Of%20Elements%20In%20GitHub.md#pull-requests-)
 - [**ACTIONS**]()
 - [**PROJECTS**]()
 - [**WIKI**]()
