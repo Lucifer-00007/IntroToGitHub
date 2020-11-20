@@ -1,4 +1,4 @@
-# List  of  all  basic  elements  of  GitHub  are  as  follows:-
+# List  of  all  basic  elements  of  GitHub  repository  are  as  follows:-
 ![](Images/Screenshot%20(91).png)
 - [**CODE**](https://github.com/Lucifer-00007/IntroToGitHub/blob/master/List%20Of%20Elements%20In%20GitHub.md#code-)
 - [**ISSUES**](https://github.com/Lucifer-00007/IntroToGitHub/blob/master/List%20Of%20Elements%20In%20GitHub.md#issues-)
