@@ -12,7 +12,7 @@
 - ALL BOLD AND ITALIC-      \*\*\*All this text is bold and italic***
 - To HIGHLIGHT TEXT\CODE-   \`This is the highlighted text`.
 
-###### Output:-
+## Output:-
 - **This is bold text**
 - *This text is italicized*
 - ~~This was mistaken text~~
