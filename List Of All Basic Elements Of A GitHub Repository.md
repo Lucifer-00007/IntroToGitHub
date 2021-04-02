@@ -42,8 +42,16 @@
 - How to make pull request?  [Click here](https://www.youtube.com/watch?v=e3bjQX9jIBk)
 
 
-
-
+## ACTIONS:-
+- Github action helps to automate, customize, and execute your software development workflows right in your repository.
+- We can start a github action by creating a workflow(which contains a  '.yml' file with a codes written in it.)
+- You can discover, create, and share actions to perform any job you'd like, including CI/CD, and combine actions in a completely customized workflow.
+- ### Steps to setup a workflow:-
+  - First create a folder name `.github` in your any desired repository,then inside the ".github" create a folder name `workflows`.Finally it should look like `.github/workflows`.
+  - Inside this "workflows" folder we have to create our `.ylm` files.For [example](https://github.com/Lucifer-00007/Lucifer-00007/blob/main/.github/workflows/blog-post-workflow.yml)
+  - Finally head over to the "Actions" tab in your repository and you will find the list of all workflows.
+  - Select your desired workflow and click on `Run workflow`.Now if there is no error in your code, your workflow will be triggered.
+  - Done!!
 
 
 
