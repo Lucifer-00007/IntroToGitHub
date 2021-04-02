@@ -83,7 +83,7 @@ You can create an inline link by wrapping link text in brackets `[ ]`, and then 
 ## _To Mentioning people and teams__or__Referencing issues and pull requests:->
       
  - To Mentioning people and teams use:->         " `@` " and add there name or team name.
- - To Referencing issues and pull requests:->    " `#` " and the issue or pull reequest.
+ - To Referencing issues and pull requests:->    " `#` " and the issue or pull request.
 
 
 
