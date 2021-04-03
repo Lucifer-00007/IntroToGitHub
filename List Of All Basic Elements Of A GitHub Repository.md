@@ -56,8 +56,10 @@
 
 
 ## PROJECTS:-
-- 
+- Project boards are made up of issues, pull requests, and notes that are categorized as cards in columns of your choosing. 
+- You can drag and drop or use keyboard shortcuts to reorder cards within a column, move cards from column to column, and change the order of columns.
+- [Tutorial video](https://youtu.be/ff5cBkPg-bQ) on how to setup your project board.
 
 
-
+## WIKI:-
 
