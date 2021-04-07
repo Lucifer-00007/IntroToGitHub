@@ -5,6 +5,7 @@
 
 
 ## \__STYLE\__                   \__EXAMPLE WITH SYNTAX\__
+###### EXAMPLE:- 
 - BOLD-                    \*\*This is bold text**
 - ITALIC-                   \*This text is italicized*
 - STRICKTHROUGH-            \~~This was mistaken text~~
@@ -12,7 +13,7 @@
 - ALL BOLD AND ITALIC-      \*\*\*All this text is bold and italic***
 - To HIGHLIGHT TEXT\CODE-   \`This is the highlighted text`.
 
-## Output:-
+###### OUTPUT:-
 - **This is bold text**
 - *This text is italicized*
 - ~~This was mistaken text~~
@@ -181,7 +182,7 @@ Every comment field on GitHub contains a text formatting toolbar, allowing you t
 
 
 
-## ▶To learn more about Markdown [click here](https://youtu.be/eJojC3lSkwg)
+## ▶[Video Tutorial](https://youtu.be/eJojC3lSkwg) To Learn More About Markdown.
 
 
 
