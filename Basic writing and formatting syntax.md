@@ -80,7 +80,62 @@ You can create an inline link by wrapping link text in brackets `[ ]`, and then 
 
 
 
-## _To Mentioning people and teams__or__Referencing issues and pull requests:->
+## _Adding Images_
+You can add an image to your readme by adding `![ ]`, and then wrapping the `IMAGE URL` in parentheses `( )`.
+ 
+ ###### EXAMPLE TO ADD AN IMAGE ->    
+    ![](http://picsum.photos/200/200)
+
+ ###### OUTPUT->
+![](http://picsum.photos/200/200)
+
+
+## _Adding Highlighted Programming Codes_
+You can add multiple lines of program with highlighted codes by adding  ` ```name-of-the-programming-lang `, followed by your codes and at the end add ` ``` `
+
+ ###### FOR EXAMPLE:-
+	```html
+	<p>A paragraph example</p>
+	```
+	
+	```javascript
+	let num = Math.random();
+	```
+	
+	```python
+	print("Welcome to my github repo")
+	```
+
+ ###### OUTPUT:-	
+```html
+<p>A paragraph example</p>
+```
+
+```javascript
+let num = Math.random();
+```
+
+```python
+print("Welcome to my github repo")
+```
+
+## _Adding Tabels_
+
+###### EXAMPLE CODE TO ADD TABELS:-
+	| heading | header | head |
+	| --- | --- | --- |
+	| content | more content | text |
+	| more | more | more |
+	
+ ###### OUTPUT:-
+| heading | header | head |
+| --- | --- | --- |
+| content | more content | text |
+| more | more | more |
+
+
+
+## _To Mentioning people and teams__or__Referencing issues and pull requests_:->
       
  - To Mentioning people and teams use:->         " `@` " and add there name or team name.
  - To Referencing issues and pull requests:->    " `#` " and the issue or pull request.
