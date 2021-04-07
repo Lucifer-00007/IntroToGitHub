@@ -5,7 +5,7 @@
 
 
 ## \__STYLE\__                   \__EXAMPLE WITH SYNTAX\__
-###### EXAMPLE:- 
+###### EXAMPLE:-> 
 - BOLD-                    \*\*This is bold text**
 - ITALIC-                   \*This text is italicized*
 - STRICKTHROUGH-            \~~This was mistaken text~~
@@ -13,7 +13,7 @@
 - ALL BOLD AND ITALIC-      \*\*\*All this text is bold and italic***
 - To HIGHLIGHT TEXT\CODE-   \`This is the highlighted text`.
 
-###### OUTPUT:-
+###### OUTPUT:->
 - **This is bold text**
 - *This text is italicized*
 - ~~This was mistaken text~~
@@ -84,17 +84,17 @@ You can create an inline link by wrapping link text in brackets `[ ]`, and then 
 ## _Adding Images_
 You can add an image to your readme by adding `![ ]`, and then wrapping the `IMAGE URL` in parentheses `( )`.
  
- ###### EXAMPLE TO ADD AN IMAGE ->    
+ ###### EXAMPLE TO ADD AN IMAGE:->    
     ![](http://picsum.photos/200/200)
 
- ###### OUTPUT->
+ ###### OUTPUT:->
 ![](http://picsum.photos/200/200)
 
 
 ## _Adding Highlighted Programming Codes_
 You can add multiple lines of program with highlighted codes by adding  ` ```name-of-the-programming-lang `, followed by your codes and at the end add ` ``` `
 
- ###### FOR EXAMPLE:-
+ ###### FOR EXAMPLE:->
 	```html
 	<p>A paragraph example</p>
 	```
@@ -107,7 +107,7 @@ You can add multiple lines of program with highlighted codes by adding  ` ```nam
 	print("Welcome to my github repo")
 	```
 
- ###### OUTPUT:-	
+ ###### OUTPUT:->	
 ```html
 <p>A paragraph example</p>
 ```
@@ -122,13 +122,13 @@ print("Welcome to my github repo")
 
 ## _Adding Tabels_
 
-###### EXAMPLE CODE TO ADD TABELS:-
+###### EXAMPLE CODE TO ADD TABELS:->
 	| heading | header | head |
 	| --- | --- | --- |
 	| content | more content | text |
 	| more | more | more |
 	
- ###### OUTPUT:-
+ ###### OUTPUT:->
 | heading | header | head |
 | --- | --- | --- |
 | content | more content | text |
@@ -148,18 +148,18 @@ print("Welcome to my github repo")
 - Typing " `:` " will bring up a list of suggested emoji. 
 - The list will filter as you type, so once you find the emoji you're looking for, press "`Tab`" or "`Enter`" to complete the highlighted result.
 
-           Ex:-  @octocat :+1: This PR looks great - it's ready to merge! :shipit:
+           Ex:->  @octocat :+1: This PR looks great - it's ready to merge! :shipit:
            
- ###### Output:-  @octocat :+1: This PR looks great - it's ready to merge! :shipit:
+ ###### Output:->  @octocat :+1: This PR looks great - it's ready to merge! :shipit:
 
 
 ## _Giving_Comments_
          
 We can give a comment on GitHub by using "`\`" in the text or code.
        
-      Ex:- Let's rename \*our-new-project*.
+      Ex:-> Let's rename \*our-new-project*.
       
-###### Output:- Let's rename \*our-new-project*
+###### Output:-> Let's rename \*our-new-project*
    
 
 
@@ -169,7 +169,7 @@ We can give a comment on GitHub by using "`\`" in the text or code.
 	
 Every comment field on GitHub contains a text formatting toolbar, allowing you to format your text without learning Markdown syntax. 
       
-###### It's features  are:-     
+###### It's features  are:->     
 - Markdown formatting like-- "`bold`" and "`italic styles`" and 
 - Also creating-- "`headers`", "`links`", and "`lists`". 
 - GitHub-specific features such as-- "`@mentions`", "`task lists`" and "`links to issues and pull requests`".
@@ -178,7 +178,7 @@ Every comment field on GitHub contains a text formatting toolbar, allowing you t
          
   
   
-**Thank You**  
+**Thank You!!**  
 
 
 
