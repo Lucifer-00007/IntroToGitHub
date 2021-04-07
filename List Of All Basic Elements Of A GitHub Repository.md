@@ -69,7 +69,7 @@
   - At the end click on "save page".
   - You can multiple pages just like any common documentation.[For example](https://github.com/Lucifer-00007/IntroToGitHub/wiki)
   - Done!!  
-- [Tutorial video](https://youtu.be/4B0XNThjO0E) on how to setup your project board.
+- [Tutorial video](https://youtu.be/4B0XNThjO0E) on how to setup your wiki.
 
 
 ## SECURITY:-
