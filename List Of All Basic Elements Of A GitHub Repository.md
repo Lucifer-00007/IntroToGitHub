@@ -67,7 +67,7 @@
   - Head over to the wiki tab> click "create the first page"
   - Now here you can give your own "title" and start writting your content.
   - At the end click on "save page".
-  - You can multiple pages just like any common documentation.
+  - You can multiple pages just like any common documentation.[For example](https://github.com/Lucifer-00007/IntroToGitHub/wiki)
   - Done!!  
 - [Tutorial video](https://youtu.be/4B0XNThjO0E) on how to setup your project board.
 
