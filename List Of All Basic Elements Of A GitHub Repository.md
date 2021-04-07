@@ -64,10 +64,12 @@
 ## WIKI:-
 - A README file quickly tells what your project can do, while you can use a wiki to create a full documentation of your project.
 - ### To create your own wiki:-
-  - Head over to the wiki tab> click "create the first page" >  
-
-
-
+  - Head over to the wiki tab> click "create the first page"
+  - Now here you can give your own "title" and start writting your content.
+  - At the end click on "save page".
+  - You can multiple pages just like any common documentation.
+  - Done!!  
+- [Tutorial video](https://youtu.be/4B0XNThjO0E) on how to setup your project board.
 
 
 ## SECURITY:-
