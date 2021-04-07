@@ -56,10 +56,14 @@
 
 
 ## PROJECTS:-
-- Project boards are made up of issues, pull requests, and notes that are categorized as cards in columns of your choosing. 
+- Project boards is like a automatic/manual notepad made up of issues, pull requests, and notes that are categorized as cards in columns of your choosing. 
 - You can drag and drop or use keyboard shortcuts to reorder cards within a column, move cards from column to column, and change the order of columns.
 - [Tutorial video](https://youtu.be/ff5cBkPg-bQ) on how to setup your project board.
 
 
 ## WIKI:-
+- A README file quickly tells what your project can do, while you can use a wiki to create a full documentation of your project.
+- ### To create your own wiki:-
+  - Head over to the wiki tab> click "create the first page" >  
+   
 
